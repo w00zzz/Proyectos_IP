@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class definir_imc{
+class Definir_IMC{
   public static void main(String[] args){
     float peso, talla, imc;
     System.out.print("Introduce tu peso: ");
